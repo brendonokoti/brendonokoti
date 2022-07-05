@@ -1,9 +1,10 @@
 ### Olá, eu sou o Brendon Okoti!
 
-- 😍 Minha linguagem principal é o Python.
+- ✨ Minha linguagem principal é o Python.
+- 🔓 Tenho interesse em aprender mais sobre JavaScript.
 - 🚩 Atualmente, estou interessado na área de back-end.
 - 📖 Estudando Django.
-- ♂️ Pronouns: Ele/dele.
+
 
 
 <div>
