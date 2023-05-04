@@ -9,7 +9,7 @@
 
 <div>
   <a href="http://linkedin.com/in/brendon-hideo-okoti-pinheiro-78886a1bb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brendonokoti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brendonokoti&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendonokoti&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
